@@ -1,21 +1,22 @@
 # ⭐ Kauã Felipe Martins
-<sub> Brazil, Paraná, Londrina </sub>
-### 🧑‍🎓 Computer Technician Integrated into High School, IFPR - Graduating 4rd Year
 
-## 💡 My person
+## 🧑‍🎓 Academic 
+- Graduated in Computer Technician Integrated into High School - IFPR
+- Graduating in Data Sciences and Artificial Intelligence - UEL
+
+##💡 My person
 - Affinity with calculations and logic
 - Proactive and self-taught
 - Search for knowledge and new technologies
 
-## ⚙️ Technical skills
-- Java                    - Intermediary
-  <sub>Canvas and game programming</sub>
-- Javascript, Typescript  - Intermediary
-  <sub>node.js, react-native</sub>
-- HTML, CSS               - Basic
-- C Language              - Basic
-- Python                  - Basic
-- C#                      - Basic
+## ⚙️ Technical skills               
+- Javascript
+- Typescrip
+- Node.JS
+- React Native
+- Python  
+- C#
+- Java    
   
 ## 📜 Experience
 
