@@ -4,7 +4,7 @@
 - Graduated in Computer Technician Integrated into High School - IFPR
 - Graduating in Data Sciences and Artificial Intelligence - UEL
 
-##💡 My person
+## 💡 Myself
 - Affinity with calculations and logic
 - Proactive and self-taught
 - Search for knowledge and new technologies
