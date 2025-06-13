@@ -30,5 +30,5 @@ Currently, by doing the data science and IA course, I am conducting and learning
 
 
 ### Links
-- [LinkedIn](www.linkedin.com/in/kauã-felipe-martins)
+- [LinkedIn](https://www.linkedin.com/in/kauã-felipe-martins)
 - [Student Github](https://github.com/kf-martins-uel)
