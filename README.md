@@ -22,6 +22,13 @@
 
 I did an internship at MPPR in Londrina, Paraná. In addition to secretarial services, I created web automation or spreadsheet programs to help with work. I made automations in javascript and python. I used the Asana API and libraries like pandas and selenium.
 
-I was taking a java developer course for game programming. I did some projects in Java, using OOP concepts and frameworks like Canvas, for graphics in Java.
-
 I did projects during the IT course that helped me develop logic and search for knowledge.
+
+I've done it and worked on some projects ranging from something simple such as a Cesar cipher, websites and automations, to KNN algorithms and simulators.
+
+Currently, by doing the data science and IA course, I am conducting and learning techniques to work with large volumes of data and also understanding concepts and algorithms used in AI. I usually use the Python language to do the work, along with libraries such as pandas, numpy, matplotlib, among others.
+
+
+### Links
+- [LinkedIn](www.linkedin.com/in/kauã-felipe-martins)
+- [Student Github](https://github.com/kf-martins-uel)
